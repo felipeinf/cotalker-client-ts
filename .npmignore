@@ -1,0 +1,30 @@
+# Archivos de desarrollo
+.git/
+.gitignore
+.env
+.env.*
+.DS_Store
+node_modules/
+
+# Archivos de Docker y configuración
+dockerfile
+dockerfile.debug
+.dockerignore
+
+# Configuración específica del entorno
+.serverless/
+.webpack/
+_warmup/
+.vscode/
+
+# Archivos de ejemplo y pruebas
+tests/
+examples/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Archivos temporales
+temp/
+tmp/ 
