@@ -1,6 +1,6 @@
 {
   "name": "cotalker-client-ts",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Cliente TypeScript para la API de Cotalker",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
